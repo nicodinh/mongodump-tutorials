@@ -1,5 +1,5 @@
 
-# Dump remote MongoDB 2.6.x from local OS X El Capitan
+# Dump a database on a remote MongoDB 2.6.x from local OS X El Capitan
 
 ## 1) install brew
 - http://brew.sh/
@@ -11,5 +11,6 @@
 
 ## 3) run mongodump
 - mongodump --host host --port port --db database -u username -p
+- enter your password
 - cd ./dump/database/
 - done !
