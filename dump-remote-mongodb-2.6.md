@@ -1,5 +1,5 @@
 
-# Dump a database on a remote MongoDB 2.6.x from local OS X El Capitan
+# Dump remote MongoDB 2.6.x database from local OS X El Capitan
 
 ## 1) install brew
 - http://brew.sh/
